@@ -1,5 +1,7 @@
 # nosql_challenge
 
+I worked with Conner Dekok and Adolophus Momoh Jr. on this challenge.
+
 Open a terminal window on the Resources folder and import the establishments.JSON using mongoimport --db uk_food --collection establishments --file establishments.json --jsonArray
 
 NoSQL_setup_starter.ipynb updates and cleans the establishments.JSON preparing it for analysis.
